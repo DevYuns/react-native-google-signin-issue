@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1090872742372",
+    "project_id": "react-native-google-signin-issue",
+    "storage_bucket": "react-native-google-signin-issue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090872742372:android:0000000000000000000000",
+        "android_client_info": {
+          "package_name": "com.devyuns.rnsigninissue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090872742372-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devyuns.rnsigninissue",
+            "certificate_hash": "REPLACE_WITH_SHA1"
+          }
+        },
+        {
+          "client_id": "1090872742372-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "REPLACE_WITH_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090872742372-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1090872742372-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.devyuns.rnsigninissue"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
